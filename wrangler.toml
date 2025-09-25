@@ -1,0 +1,7 @@
+name = "cloudrouter"
+main = "src/index.js"
+compatibility_date = "2023-09-01"
+
+[[kv_namespaces]]
+binding = "ROUTER_KV"
+id = "782dfcacf8c346e8a0577364e1d91fea" # 这是部署日志中创建的KV命名空间ID
